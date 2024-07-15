@@ -10,19 +10,19 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "2347045305132"
-global.ownername = "🦄Wolf"
+global.ownernomer = "2348160141238"
+global.ownername = "KILLER"
 global.ytname = "YT: W00lf_12"
 global.socialm = "GitHub: Prince-luck"
 global.location = "Nigeria, Lagos"
 
-global.ownernumber = '2347045305132'  //creator number
-global.ownername = '🦄wolf' //owner name
+global.ownernumber = '2348160141238'  //creator number
+global.ownername = 'KILLER' //owner name
 global.botname = 'Wølf ᵇᵘᵍ ᵇᵒᵗ' //name of the bot
 
 //sticker details
-global.packname = 'Sticker By'
-global.author = '🦄wolf\n\nContact: +2347045305132'
+global.packname = 'Sticker By'KILLER
+global.author = '🦄wolf\n\nContact: +2348160141238'
 
 //console view/theme
 global.themeemoji = '🪀'
@@ -59,8 +59,8 @@ global.bimg = '//9j/4AAQSkZJRgABAQAAAQABAAD/4gIoSUNDX1BST0ZJTEUAAQEAAAIYAAAAAAQw
 //reply messages
 global.mess = {
     done: 'Done !',
-    prem: 'This feature can be used by Alpha wolf or premium user only',
-    admin: 'This feature can be used Wolf by admin only',
+    prem: 'HMM',
+ adwwol 'This feature can be used Wolf by admin only',
     botAdmin: 'This feature can only be used when the bot is a group admin ',
     owner: 'This feature can be used by wolf owner only',
     group: 'This feature is only for groups',
